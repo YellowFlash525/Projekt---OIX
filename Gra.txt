@@ -1,0 +1,1 @@
+Gra tworzona jest na podstawie kilku dziesiêciu rezegranych gier. Celem tej gry by³o stworzenie inteligentnego komputera, który nigdy nie przegrywa(ewentualnie remisuje). Do tworzenia sposobu myœlenia komputera u¿y³em heurystyki.
